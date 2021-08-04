@@ -7,7 +7,7 @@
 - 毕业院校：墨尔本大学（软件工程 硕士）
 - 本科院校：哈尔滨工业大学 材料科学与工程 本科）
 
-## Solutionns
+## Solutions
 ### Question 1
 基于errgroup实现一个http server的启动和关闭，以及linux signal 信号的注册和处理，要保证能够一个退出，全部注销退出。
 
